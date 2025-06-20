@@ -66,6 +66,21 @@ Health pickups spawn randomly to help the player recover. Bullet impacts generat
 
 ## Demo
 
+1 - Controller, Design and Simple Gun
+
+https://github.com/user-attachments/assets/9e6ee00e-9c1a-4d1a-917c-7ccfbdc4127c
+
+2 - Enemies and damage
+
+https://github.com/user-attachments/assets/6b9faa63-c092-4743-a036-1353bc531523
+
+3 - Weapons and damage
+
+https://github.com/user-attachments/assets/5f2ce1a4-ed04-49d2-83d0-204b895c084b
+
+4 - Game sample and restart
+
+https://github.com/user-attachments/assets/bc755866-b11c-4f69-9ac7-7c7ae4aee48a
 
 ---
 
