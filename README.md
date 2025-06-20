@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/bc755866-b11c-4f69-9ac7-7c7ae4aee48a
 ## 🛠 Installation & Setup
 
 1. **Clone** this repository.  
-2. **Open** the project in Unity (version 2021.3+ recommended).  
+2. **Open** the project in Unity (version 2021.3+ recommended). You might need to reinstall sounds yourself due to copyrights.
 3. **Assign** AudioClips, prefabs, and references in the Inspector for:  
    - `GameManager` (enemy prefabs, health pickups, goal prefab, UI references)  
    - `AudioManager` (music and SFX arrays)  
